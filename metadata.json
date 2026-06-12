@@ -1,0 +1,10 @@
+{
+  "name": "Focus International Group",
+  "description": "A premium, visionary Pan-African architecture, urban planning, and design firm shaping Africa’s future built environment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
