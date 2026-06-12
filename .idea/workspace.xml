@@ -5,58 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efd76032-52c5-426e-8a04-60d70c142bd6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-KZIUN6QY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-KZIUN6QY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-LCWOV2KX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-LCWOV2KX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-TTFWVVSY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-TTFWVVSY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/lucide-react.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/motion_react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/motion_react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/motion_react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/motion_react.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AfricaDesignLab.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AfricaDesignLab.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AnimateReveal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AnimateReveal.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Expertises.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expertises.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FIGLogo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FIGLogo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Firm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Firm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Founder.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Founder.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProjectDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectDetail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +94,7 @@
       <workItem from="1781271945038" duration="2888000" />
       <workItem from="1781274977880" duration="351000" />
       <workItem from="1781275334752" duration="891000" />
-      <workItem from="1781276235424" duration="123000" />
+      <workItem from="1781276235424" duration="1034000" />
     </task>
     <servers />
   </component>
